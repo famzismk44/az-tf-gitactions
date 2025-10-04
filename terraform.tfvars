@@ -1,0 +1,7 @@
+# resource     = "class_209"
+# network_name = "network"
+# username     = "Adminuser"
+# password     = "Admin12345455"
+# vm_name      = "tf-vm"
+# size         = "Standard_F2"
+# storage_name = "meustoage2094today"
