@@ -82,7 +82,7 @@
 
 
 data "azurerm_resource_group" "prof" {
-  name = "class_209"
+  name = "class1016"
 }
 
 module "vm_name" {
